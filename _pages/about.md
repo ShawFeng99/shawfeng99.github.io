@@ -42,7 +42,7 @@ E-mail: xiaofeng [at] comp.hkbu.edu.hk
 <img src='/images/figures/AlphaApollo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-AlphaApollo: A System for Deep Agentic Reasoning 
+AlphaApollo: A System for Deep Agentic Reasoning.  
 Zhanke Zhou, Chentao Cao, **Xiao Feng**, Xuan Li, Zongze Li, Xiangyu Lu, Jiangchao Yao, Weikai Huang, Linrui Xu,  
 Tian Cheng, Jianghangfan Zhang, Tangyu Jiang, Linrui Xu, Yiming Zheng, Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han✉️  
 Technical Report.
