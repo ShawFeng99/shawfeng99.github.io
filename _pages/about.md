@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- Hi there,  -->
-I am Xiao Feng, a Ph.D. student at [TMLR group](https://bhanml.github.io/group.html) of Hong Kong Baptist University, fortunate to be advised by [Prof. Bo Han](https://bhanml.github.io/) and co-advised by [Prof. Lu (Eric) Zhang](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ericluzhang), and working with [Prof. Jiangchao Yao](https://sunarker.github.io/).
+I am Xiao Feng, a Ph.D. student at [TMLR group](https://bhanml.github.io/group.html) of Hong Kong Baptist University, fortunate to be advised by [Prof. Bo Han](https://bhanml.github.io/), and working with [Prof. Jiangchao Yao](https://sunarker.github.io/).
 
 My research focuses on **agentic reasoning and learning** with foundation models. I work on: (1) building agentic systems that orchestrate foundation models and tools for complex tasks [[AlphaApollo]](https://arxiv.org/pdf/2510.06261); 
 <!-- ( -->
@@ -30,7 +30,7 @@ E-mail: xiaofeng [at] comp.hkbu.edu.hk
 
 
 # 📖 Education and Experience
-- *2025.09 - present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/) and co-advised by [Prof. Lu (Eric) Zhang](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ericluzhang).
+- *2025.09 - present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/).
 - *2021.09 - 2022.11*, MSc in Artificial Intelligence, University of Southampton.
 - *2017.09 - 2021.06*, B.E. in Computer Science, Lanzhou University.
 
