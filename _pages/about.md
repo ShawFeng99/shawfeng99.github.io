@@ -18,14 +18,20 @@ redirect_from:
 
 <!-- Hi there,  -->
 I am Xiao Feng, a Ph.D. student at [TMLR group](https://bhanml.github.io/group.html) of Hong Kong Baptist University, fortunate to be advised by [Prof. Bo Han](https://bhanml.github.io/), and working with [Prof. Jiangchao Yao](https://sunarker.github.io/).
-My research focuses on **agentic reasoning and learning** with foundation models. I work on: (1) building agentic systems that orchestrate foundation models and tools for complex tasks [[AlphaApollo]](https://arxiv.org/pdf/2510.06261); 
-<!-- ( -->
-<!-- 2) learning to reason via reinforcement learning—including reward propagation in agentic state graphs [[RewardFlow]](https://openreview.net/pdf?id=5oGJbM5u86), dynamic policy optimization for multi-turn interactive reasoning [[DyPO]](https://openreview.net/pdf?id=OWDBiMKYdo), and self-supervised RL for eliciting reasoning [[Co-rewarding]](https://arxiv.org/pdf/2508.00410); -->
-(2) understanding and benchmarking reasoning—such as visualizing LLM reasoning processes [[Landscape of thoughts]](https://arxiv.org/pdf/2503.22165), active reasoning under incomplete information [[AR-Bench]](https://arxiv.org/pdf/2506.08295), and robust multi-agent debate with memory masking [[MAD-M²]](https://openreview.net/pdf?id=EdTt8nMAMA).
+My research focuses on **trustworthy agentic intelligence**. My research interests span three directions:
+
+- **Systems:** Building agentic systems that coordinate foundation models and tools to solve complex tasks [[AlphaApollo]](https://arxiv.org/pdf/2510.06261).
+- **Methods:** Developing learning and reasoning methods for reliable agents, including topology-aware reward propagation for agentic reinforcement learning [[RewardFlow]](https://openreview.net/forum?id=vgqdqXYwsC) and memory masking for robust multi-agent debate [[MAD-M²]](https://openreview.net/pdf?id=EdTt8nMAMA).
+- **Understanding and Benchmarking:** Understanding how foundation models reason and evaluating their capabilities, including reasoning-process visualization [[Landscape of Thoughts]](https://arxiv.org/pdf/2503.22165) and active reasoning under incomplete information [[AR-Bench]](https://arxiv.org/pdf/2506.08295).
 
 <!-- *Feel free to email [Prof. Bo Han](mailto:bhanml@comp.hkbu.edu.hk) and [me](mailto:xiaofeng@comp.hkbu.edu.hk) to discuss collaboration opportunities.* -->
 
 E-mail: xiaofeng [at] comp.hkbu.edu.hk
+
+
+# 📰 News
+- *2026.09*, [**RewardFlow**](https://openreview.net/forum?id=vgqdqXYwsC) was accepted to **NeurIPS 2026**. See you in Sydney!
+- **[2025.09]** I started my Ph.D. at the TMLR Group, Hong Kong Baptist University.
 
 
 # 📖 Education and Experience
@@ -36,6 +42,20 @@ E-mail: xiaofeng [at] comp.hkbu.edu.hk
 
 # 📝 Selected Publications
 \* Co-first author, ✉️ Corresponding author.
+
+<!-- RewardFlow: NeurIPS 2026 -->
+<div class='paper-box'><div class='paper-box-image'><div>
+<a href='/images/figures/RewardFlow.png'><img src='/images/figures/RewardFlow.png' alt='RewardFlow framework: state graph construction and reward propagation' width='100%'></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+RewardFlow: Topology-Aware Reward Propagation on State Graphs for Agentic RL with LLMs.  
+**Xiao Feng**, Bo Han✉️, Zhanke Zhou, Jiaqi Fan, Jiangchao Yao, Ka Ho Li, Dahai Yu, Michael Ng  
+NeurIPS 2026.
+[[paper]](https://openreview.net/pdf?id=vgqdqXYwsC)
+[[OpenReview]](https://openreview.net/forum?id=vgqdqXYwsC)
+[[code]](https://github.com/tmlr-group/RewardFlow)
+</div>
+</div>
 
 <!-- AlphaApollo -->
 <div class='paper-box'><div class='paper-box-image'><div>
@@ -112,19 +132,6 @@ ICLR 2026.
 [[code]](https://github.com/tmlr-group/Co-rewarding)
 </div>
 </div> -->
-
-<!-- RewardFlow - shared, placeholder figure
-<div class='paper-box'><div class='paper-box-image'><div>
-<img src='https://placehold.co/400x250/eee/999?text=Figure' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-RewardFlow: Propagating Reward in the State Graphs of Agentic Learning with LLMs.  
-**Xiao Feng**, Bo Han✉️, Zhanke Zhou, Jiaqi Fan, Jiangchao Yao, Ka Ho Li, Dahai Yu, Michael Ng  
-ICLR 2026.
-[[paper]](https://openreview.net/pdf?id=5oGJbM5u86)
-[[code]](https://github.com/tmlr-group/RewardFlow)
-</div>
-</div>
 
 <!-- DyPO - shared, placeholder figure -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div>
