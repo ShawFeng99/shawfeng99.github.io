@@ -120,18 +120,19 @@ ICLR 2026.
 </div>
 </div>
 
-<!-- Co-rewarding - shared, placeholder figure
+<!-- Co-rewarding -->
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='https://placehold.co/400x250/eee/999?text=Figure' alt="sym" width="100%"></div></div>
+<a href='/images/figures/Co-rewarding.png'><img src='/images/figures/Co-rewarding.png' alt='Co-rewarding framework: data-side cross-reference and model-side self-distillation' width='100%'></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 Co-rewarding: Stable Self-supervised RL for Eliciting Reasoning in Large Language Models.  
-Zhengyan Zhang, Jiong Zhu, Xinyu Ge, Zihao Zhao, Zhanke Zhou, Xuan Li, **Xiao Feng**, Jiangchao Yao, Bo Han✉️  
+Zizhuo Zhang, Jianing Zhu, Xinmu Ge, Zihua Zhao, Zhanke Zhou, Xuan Li, **Xiao Feng**, Jiangchao Yao, Bo Han✉️  
 ICLR 2026.
 [[paper]](https://arxiv.org/pdf/2508.00410)
+[[OpenReview]](https://openreview.net/forum?id=fDk95XPsCU)
 [[code]](https://github.com/tmlr-group/Co-rewarding)
 </div>
-</div> -->
+</div>
 
 <!-- DyPO - shared, placeholder figure -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div>
@@ -162,6 +163,7 @@ ICLR 2026.
 
 # 🎖 Awards
 <!-- Add your awards here -->
+- ICML Gold Reviewer Award, 2026.
 - HKBU PhD Transdisciplinary Research Scholarship Scheme, 2025.
 - Excellent Research Bronze Award of TMLR Group, 2024-2025.
 - Industry Collaboration Award of TMLR Group, 2024-2025.
