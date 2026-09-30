@@ -31,7 +31,7 @@ E-mail: xiaofeng [at] comp.hkbu.edu.hk
 
 # 📰 News
 - *2026.09*, [**RewardFlow**](https://openreview.net/forum?id=vgqdqXYwsC) was accepted to **NeurIPS 2026**. See you in Sydney!
-- **[2025.09]** I started my Ph.D. at the TMLR Group, Hong Kong Baptist University.
+- *2025.09*, I started my Ph.D. at the TMLR Group, Hong Kong Baptist University.
 
 
 # 📖 Education and Experience
