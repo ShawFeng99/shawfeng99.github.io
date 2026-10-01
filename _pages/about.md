@@ -21,7 +21,7 @@ I am Xiao Feng, a Ph.D. student at [TMLR group](https://bhanml.github.io/group.h
 My research focuses on **trustworthy agentic intelligence**. My research interests span three directions:
 
 - **Systems:** Building agentic systems that coordinate foundation models and tools to solve complex tasks [[AlphaApollo]](https://arxiv.org/pdf/2510.06261).
-- **Methods:** Developing learning and reasoning methods for reliable agents, including topology-aware reward propagation for agentic reinforcement learning [[RewardFlow]](https://openreview.net/forum?id=vgqdqXYwsC) and memory masking for robust multi-agent debate [[MAD-M²]](https://openreview.net/pdf?id=EdTt8nMAMA).
+- **Methods:** Developing learning and reasoning methods for reliable agents, including topology-aware reward propagation for agentic reinforcement learning [[RewardFlow]](https://arxiv.org/abs/2603.18859) and memory masking for robust multi-agent debate [[MAD-M²]](https://openreview.net/pdf?id=EdTt8nMAMA).
 - **Understanding and Benchmarking:** Understanding how foundation models reason and evaluating their capabilities, including reasoning-process visualization [[Landscape of Thoughts]](https://arxiv.org/pdf/2503.22165) and active reasoning under incomplete information [[AR-Bench]](https://arxiv.org/pdf/2506.08295).
 
 <!-- *Feel free to email [Prof. Bo Han](mailto:bhanml@comp.hkbu.edu.hk) and [me](mailto:xiaofeng@comp.hkbu.edu.hk) to discuss collaboration opportunities.* -->
@@ -30,7 +30,7 @@ E-mail: xiaofeng [at] comp.hkbu.edu.hk
 
 
 # 📰 News
-- *2026.09*, [**RewardFlow**](https://openreview.net/forum?id=vgqdqXYwsC) was accepted to **NeurIPS 2026**. See you in Sydney!
+- *2026.09*, [**RewardFlow**](https://arxiv.org/abs/2603.18859) was accepted to **NeurIPS 2026**. See you in Sydney!
 - *2025.09*, I started my Ph.D. at the TMLR Group, Hong Kong Baptist University.
 
 
@@ -51,8 +51,7 @@ E-mail: xiaofeng [at] comp.hkbu.edu.hk
 RewardFlow: Topology-Aware Reward Propagation on State Graphs for Agentic RL with LLMs.  
 **Xiao Feng**, Bo Han✉️, Zhanke Zhou, Jiaqi Fan, Jiangchao Yao, Ka Ho Li, Dahai Yu, Michael Ng  
 NeurIPS 2026.
-[[paper]](https://openreview.net/pdf?id=vgqdqXYwsC)
-[[OpenReview]](https://openreview.net/forum?id=vgqdqXYwsC)
+[[paper]](https://arxiv.org/pdf/2603.18859)
 [[code]](https://github.com/tmlr-group/RewardFlow)
 </div>
 </div>
