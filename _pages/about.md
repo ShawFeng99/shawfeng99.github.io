@@ -22,7 +22,7 @@ My research focuses on **trustworthy agentic intelligence**, with the goal of bu
 
 - **Systems:** How can we build trustworthy agentic systems across different models, harnesses, and algorithms? [[AlphaApollo]](https://arxiv.org/abs/2510.06261)
 - **Methods:** How can we enable agents to learn and solve problems reliably? [[RewardFlow]](https://arxiv.org/abs/2603.18859) [[MAD-M²]](https://openreview.net/forum?id=EdTt8nMAMA)
-- **Understanding and Benchmarking:** How do agents reason, and where are their capabilities and limitations? [[Landscape of Thoughts]](https://arxiv.org/abs/2503.22165) [[AR-Bench]](https://arxiv.org/abs/2506.08295)
+- **Understanding and Benchmarking:** How do agents reason, and where are their capabilities and limitations? [[LoT]](https://arxiv.org/abs/2503.22165) [[AR-Bench]](https://arxiv.org/abs/2506.08295)
 
 <!-- *Feel free to email [Prof. Bo Han](mailto:bhanml@comp.hkbu.edu.hk) and [me](mailto:xiaofeng@comp.hkbu.edu.hk) to discuss collaboration opportunities.* -->
 
