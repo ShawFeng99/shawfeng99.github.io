@@ -18,11 +18,11 @@ redirect_from:
 
 <!-- Hi there,  -->
 I am Xiao Feng, a Ph.D. student at [TMLR group](https://bhanml.github.io/group.html) of Hong Kong Baptist University, fortunate to be advised by [Prof. Bo Han](https://bhanml.github.io/), and working with [Prof. Jiangchao Yao](https://sunarker.github.io/).
-My research focuses on **trustworthy agentic intelligence**. My research interests span three directions:
+My research focuses on **trustworthy agentic intelligence**, with the goal of building agents we can trust to solve complex problems. My work spans three directions:
 
-- **Systems:** Building agentic systems that coordinate foundation models and tools to solve complex tasks [[AlphaApollo]](https://arxiv.org/pdf/2510.06261).
-- **Methods:** Developing learning and reasoning methods for reliable agents, including topology-aware reward propagation for agentic reinforcement learning [[RewardFlow]](https://arxiv.org/abs/2603.18859) and memory masking for robust multi-agent debate [[MAD-M²]](https://openreview.net/pdf?id=EdTt8nMAMA).
-- **Understanding and Benchmarking:** Understanding how foundation models reason and evaluating their capabilities, including reasoning-process visualization [[Landscape of Thoughts]](https://arxiv.org/pdf/2503.22165) and active reasoning under incomplete information [[AR-Bench]](https://arxiv.org/pdf/2506.08295).
+- **Systems:** How can we build trustworthy agentic systems across different models, harnesses, and algorithms? [[AlphaApollo]](https://arxiv.org/abs/2510.06261)
+- **Methods:** How can we enable agents to learn and solve problems reliably? [[RewardFlow]](https://arxiv.org/abs/2603.18859) [[MAD-M²]](https://openreview.net/forum?id=EdTt8nMAMA)
+- **Understanding and Benchmarking:** How do agents reason, and where are their capabilities and limitations? [[Landscape of Thoughts]](https://arxiv.org/abs/2503.22165) [[AR-Bench]](https://arxiv.org/abs/2506.08295)
 
 <!-- *Feel free to email [Prof. Bo Han](mailto:bhanml@comp.hkbu.edu.hk) and [me](mailto:xiaofeng@comp.hkbu.edu.hk) to discuss collaboration opportunities.* -->
 
